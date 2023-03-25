@@ -1,0 +1,12 @@
+{
+  "profile": {
+	"lastname":"Test user",
+	"login":"test@domain.com",
+	"user_id": 12345,
+	"version": 1
+  },
+  "accounts": {
+	"server_url":"http:\/\/localhost:3001",
+	"login":"test@domain.com"
+  }
+}

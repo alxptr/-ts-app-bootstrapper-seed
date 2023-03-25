@@ -1,0 +1,6 @@
+{
+  "accounts": {
+	"server_url":"http:\/\/localhost:3001",
+	"login":"test@domain.com"
+  }
+}

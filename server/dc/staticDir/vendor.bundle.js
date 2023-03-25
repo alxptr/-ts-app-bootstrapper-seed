@@ -1,0 +1,1 @@
+appendNode("Wow! Script #2");
